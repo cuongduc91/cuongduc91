@@ -1,10 +1,11 @@
 ### Hallo 👋, I'm Cuong.
 
-## I'm a junior Developer!
+## I'm a Software-Developer!
 
-- 📚 I completed 2 main degrees for M.A. Int. Business & Economics and B.Sc. Computer Sciences
-- 🌱 I’m keen on learning everything
+- 📚 I've completed 2 main degrees for M.A. Int. Business & Economics and B.Sc. Computer Sciences.
+- 🌱 I’m keen on learning everything.
 - 🚙🌎 Travelling is my hobby.
+- 🗣: 🇺🇸, 🇩🇪, 🇻🇳, 🇨🇳
 
 ### Connect with me:
 
@@ -25,7 +26,7 @@
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Angular" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AFont_Awesome_5_brands_angular.svg&psig=AOvVaw25kTIUasFMe6aeIiqzFARc&ust=1596910486904000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNDCwaDZiesCFQAAAAAdAAAAABAD" />
 
 <br />
 <br />
