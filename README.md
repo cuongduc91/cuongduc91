@@ -32,4 +32,4 @@
 
 ---
 
-[linkedin]: www.linkedin.com/in/bui-cuong
+[linkedin]: https://www.linkedin.com/in/bui-cuong/
