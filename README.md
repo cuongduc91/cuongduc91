@@ -1,8 +1,7 @@
 ### Hallo 👋, I'm Cuong.
 
-## I'm a Software-Developer!
+## I'm a Software-Developer/Economist!
 
-- 📚 I've completed 2 main degrees for M.A. Int. Business & Economics and B.Sc. Computer Sciences.
 - 🌱 I’m keen on learning everything.
 - 🚙🌎 Travelling is my hobby.
 - 🗣: 🇺🇸, 🇩🇪, 🇻🇳, 🇨🇳
