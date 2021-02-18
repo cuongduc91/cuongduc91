@@ -1,6 +1,6 @@
 ### Hallo 👋, I'm Cuong.
 
-## I'm a Software-Developer/Economist!
+## I'm a Software-Developer!
 
 - 🌱 I’m keen on learning everything.
 - 🚙🌎 Travelling is my hobby.
